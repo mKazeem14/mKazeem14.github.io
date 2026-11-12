@@ -1,4 +1,26 @@
 google.com, pub-9263311959350129, DIRECT, f08c47fec0942fa0
+playdigo.com, 1965, RESELLER
+prado.co, 14260, RESELLER
+indexexchange.com, 214183, RESELLER, 50b1c356f2c5c8fc
+rubiconproject.com, 17328, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 24400, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 17062, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 25336, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 24600, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 20014, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 17608, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 20744, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 25978, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 28341, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 22412, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 24752, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 24084, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 15268, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 25060, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 28169, RESELLER, 0bfd66d529a55807
+start.io, 197760873, RESELLER
+start.io, 131192070, RESELLER
+videoheroes.tv, 212499, RESELLER, 064bc410192443d8
 bid-matrix.com, f2c71a45ea149366, RESELLER
 media.net, 8CUSC3UJ7, RESELLER
 media.net, 8CUUQ286L, RESELLER
@@ -140,25 +162,3 @@ google.com, pub-5060663379040713, RESELLER, f08c47fec0942fa0
 google.com, pub-3990748024667386, RESELLER, f08c47fec0942fa0
 ignitemediatech.com, pub_11115, RESELLER
 ogury.com, 065d4ff5-a269-44be-9634-9d4d7af2dfc3, RESELLER
-playdigo.com, 1965, RESELLER
-prado.co, 14260, RESELLER
-indexexchange.com, 214183, RESELLER, 50b1c356f2c5c8fc
-rubiconproject.com, 17328, RESELLER, 0bfd66d529a55807
-rubiconproject.com, 24400, RESELLER, 0bfd66d529a55807
-rubiconproject.com, 17062, RESELLER, 0bfd66d529a55807
-rubiconproject.com, 25336, RESELLER, 0bfd66d529a55807
-rubiconproject.com, 24600, RESELLER, 0bfd66d529a55807
-rubiconproject.com, 20014, RESELLER, 0bfd66d529a55807
-rubiconproject.com, 17608, RESELLER, 0bfd66d529a55807
-rubiconproject.com, 20744, RESELLER, 0bfd66d529a55807
-rubiconproject.com, 25978, RESELLER, 0bfd66d529a55807
-rubiconproject.com, 28341, RESELLER, 0bfd66d529a55807
-rubiconproject.com, 22412, RESELLER, 0bfd66d529a55807
-rubiconproject.com, 24752, RESELLER, 0bfd66d529a55807
-rubiconproject.com, 24084, RESELLER, 0bfd66d529a55807
-rubiconproject.com, 15268, RESELLER, 0bfd66d529a55807
-rubiconproject.com, 25060, RESELLER, 0bfd66d529a55807
-rubiconproject.com, 28169, RESELLER, 0bfd66d529a55807
-start.io, 197760873, RESELLER
-start.io, 131192070, RESELLER
-videoheroes.tv, 212499, RESELLER, 064bc410192443d8
